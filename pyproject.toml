@@ -1,7 +1,7 @@
 
 [project]
 name = "jdev2026-python-wheel-tbaudieressai3"
-version = "0.0.1"
+version = "0.1.0"
 description = "Demo package"
 authors = [{name="Thomas"}]
 readme = "README.md"
